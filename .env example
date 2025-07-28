@@ -1,0 +1,2 @@
+WEATHER_API_URL = "*.qweatherapi.com"
+WEATHER_API_KEY = "API KEY"
